@@ -1,0 +1,464 @@
+SIM/GLOBAL/RUN_TYPE
+
+New: MD
+Previous: None
+Date: 2019-10-17 10:56:44.041134
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/METHOD
+
+New: QUICKSTEP
+Previous: None
+Date: 2019-10-17 10:56:44.041141
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/STRESS_TENSOR
+
+New: ANALYTICAL
+Previous: QUICKSTEP
+Date: 2019-10-17 10:56:44.041143
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/DFT/ABASIS_SET_FILE_NAME
+
+New: /home/siepmann/singh891/cp2k-6.1.0/data/BASIS_MOLOPT
+Previous: None
+Date: 2019-10-17 10:56:44.041146
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/DFT/POTENTIAL_FILE_NAME
+
+New: /home/siepmann/singh891/cp2k-6.1.0/data/GTH_POTENTIALS
+Previous: None
+Date: 2019-10-17 10:56:44.041148
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/DFT/CHARGE
+
+New: 0
+Previous: None
+Date: 2019-10-17 10:56:44.041149
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/DFT/MULTIPLICITY
+
+New: 1
+Previous: None
+Date: 2019-10-17 10:56:44.041152
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/DFT/MGRID/CUTOFF
+
+New: 600
+Previous: None
+Date: 2019-10-17 10:56:44.041156
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/DFT/MGRID/REL_CUTOFF
+
+New: 60
+Previous: None
+Date: 2019-10-17 10:56:44.041157
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/DFT/MGRID/NGRIDS
+
+New: 4
+Previous: None
+Date: 2019-10-17 10:56:44.041158
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/DFT/ENERGY/METHOD
+
+New: GPW
+Previous: None
+Date: 2019-10-17 10:56:44.041161
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/DFT/ENERGY/EPS_DEFAULT
+
+New: 1e-10
+Previous: None
+Date: 2019-10-17 10:56:44.041162
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/DFT/ENERGY/EXTRAPOLATION
+
+New: ASPC
+Previous: None
+Date: 2019-10-17 10:56:44.041164
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/DFT/POISSON/PERIODIC
+
+New: XYZ
+Previous: None
+Date: 2019-10-17 10:56:44.041165
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/DFT/PRINT/PRINT/SECTION_PARAMETERS
+
+New: OFF
+Previous: None
+Date: 2019-10-17 10:56:44.041169
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/DFT/SCF/SCF_GUESS
+
+New: ATOMIC
+Previous: None
+Date: 2019-10-17 10:56:44.041171
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/DFT/SCF/MAX_SCF
+
+New: 30
+Previous: None
+Date: 2019-10-17 10:56:44.041174
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/DFT/SCF/OT/SECTION_PARAMETERS
+
+New: .TRUE.
+Previous: None
+Date: 2019-10-17 10:56:44.041177
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/DFT/SCF/OT/PRECONDITIONER
+
+New: FULL_SINGLE_INVERSE
+Previous: None
+Date: 2019-10-17 10:56:44.041178
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/DFT/SCF/OT/MINIMIZER
+
+New: DIIS
+Previous: None
+Date: 2019-10-17 10:56:44.041180
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/DFT/SCF/OUTER_SCF/SECTION_PARAMETERS
+
+New: .TRUE.
+Previous: None
+Date: 2019-10-17 10:56:44.041185
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/DFT/SCF/OUTER_SCF/MAX_SCF
+
+New: 10
+Previous: None
+Date: 2019-10-17 10:56:44.041187
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/DFT/SCF/OUTER_SCF/EPS_SCF
+
+New: 1e-06
+Previous: 1e-06
+Date: 2019-10-17 10:56:44.041188
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/DFT/SCF/SCF_PRINT/FORCES/SECTION_PARAMETERS
+
+New: OFF
+Previous: None
+Date: 2019-10-17 10:56:44.041190
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/DFT/SCF/SCF_PRINT/DM_RESTART_WRITE
+
+New: .TRUE.
+Previous: None
+Date: 2019-10-17 10:56:44.041193
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/DFT/XC/XC_FUNCTIONAL/SECTION_PARAMETERS
+
+New: BLYP
+Previous: None
+Date: 2019-10-17 10:56:44.041196
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/DFT/XC/VDW_POTENTIAL/POTENTIAL_TYPE
+
+New: PAIR_POTENTIAL
+Previous: None
+Date: 2019-10-17 10:56:44.041198
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/DFT/XC/VDW_POTENTIAL/PAIR_POTENTIAL/TYPE
+
+New: DFTD3
+Previous: None
+Date: 2019-10-17 10:56:44.041201
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/DFT/XC/VDW_POTENTIAL/PAIR_POTENTIAL/PARAMETER_FILE_NAME
+
+New: dftd3.dat
+Previous: None
+Date: 2019-10-17 10:56:44.041203
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/DFT/XC/VDW_POTENTIAL/PAIR_POTENTIAL/REFERENCE_FUNCTIONAL
+
+New: BLYP
+Previous: None
+Date: 2019-10-17 10:56:44.041204
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/DFT/XC/VDW_POTENTIAL/PAIR_POTENTIAL/R_CUTOFF
+
+New: 11
+Previous: None
+Date: 2019-10-17 10:56:44.041207
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/SUBSYS/DFT/DEFAULT_KEYWORD
+
+New: iodine.xyz
+Previous: None
+Date: 2019-10-17 10:56:44.041209
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/SUBSYS/KIND/SECTION_PARAMETERS
+
+New: I
+Previous: None
+Date: 2019-10-17 10:56:44.041210
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/SUBSYS/KIND/BASIS_SET
+
+New: DZVP-MOLOPT-SR-GTH
+Previous: None
+Date: 2019-10-17 10:56:44.041213
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/SUBSYS/KIND/POTENTIAL
+
+New: GTH-BLYP-q7
+Previous: None
+Date: 2019-10-17 10:56:44.041214
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/SUBSYS/DFT/ABC
+
+New: 15.0 15.0 15.0
+Previous: None
+Date: 2019-10-17 10:56:44.041216
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/GEO_OPT/MAX_DR
+
+New: BFGS
+Previous: None
+Date: 2019-10-17 10:56:44.041218
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/GEO_OPT/MAX_ITER
+
+New: 100
+Previous: None
+Date: 2019-10-17 10:56:44.041219
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/GEO_OPT/MAX_FORCE
+
+New: 0.003
+Previous: None
+Date: 2019-10-17 10:56:44.041221
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/MD/ENSEMBLE
+
+New: NVT
+Previous: None
+Date: 2019-10-17 10:56:44.041224
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/MD/STEPS
+
+New: 1000000
+Previous: None
+Date: 2019-10-17 10:56:44.041226
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/MD/TIMESTEP
+
+New: 0.5
+Previous: None
+Date: 2019-10-17 10:56:44.041228
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/MD/TEMPERATURE
+
+New: 673.0
+Previous: None
+Date: 2019-10-17 10:56:44.041229
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/MD/THERMOSTAT/TYPE
+
+New: NOSE
+Previous: None
+Date: 2019-10-17 10:56:44.041231
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/MD/THERMOSTAT/REGION
+
+New: MASSIVE
+Previous: None
+Date: 2019-10-17 10:56:44.041232
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/MD/THERMOSTAT/NOSE/LENGTH
+
+New: 3
+Previous: None
+Date: 2019-10-17 10:56:44.041236
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/MD/THERMOSTAT/NOSE/YOSHIDA
+
+New: 3
+Previous: None
+Date: 2019-10-17 10:56:44.041240
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/MD/THERMOSTAT/NOSE/TIMECON
+
+New: 1000.0
+Previous: None
+Date: 2019-10-17 10:56:44.041242
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/MD/THERMOSTAT/NOSE/MTS
+
+New: 2
+Previous: None
+Date: 2019-10-17 10:56:44.041244
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/PRINT/STRESS/SECTION_PARAMETERS
+
+New: ON
+Previous: None
+Date: 2019-10-17 10:56:44.041246
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/PRINT/TRAJECTORY/EACH/MD
+
+New: 10
+Previous: None
+Date: 2019-10-17 10:56:44.041248
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/PRINT/VELOCITIES/SECTION_PARAMETERS
+
+New: OFF
+Previous: None
+Date: 2019-10-17 10:56:44.041250
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/PRINT/FORCES/SECTION_PARAMETERS
+
+New: OFF
+Previous: None
+Date: 2019-10-17 10:56:44.041252
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/PRINT/FORCES/SECTION_PARAMETERS
+
+New: ON
+Previous: None
+Date: 2019-10-17 10:56:44.041254
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/PRINT/FORCES/EACH/MD
+
+New: 500
+Previous: None
+Date: 2019-10-17 10:56:44.041273
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/PRINT/FORCES/SECTION_PARAMETERS
+
+New: ON
+Previous: None
+Date: 2019-10-17 10:56:44.041276
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/PRINT/FORCES/BACKUP_COPIES
+
+New: 3
+Previous: None
+Date: 2019-10-17 10:56:44.041278
+Success: True
+ErrorMessage: None
+
+SIM/MOTION/PRINT/FORCES/EACH/MD
+
+New: 1
+Previous: None
+Date: 2019-10-17 10:56:44.041280
+Success: True
+ErrorMessage: None
+
