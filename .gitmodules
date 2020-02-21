@@ -1,0 +1,3 @@
+[submodule "CSSI-CP2K"]
+	path = CSSI-CP2K
+	url = https://github.com/ramanishsingh/CSSI-CP2K
