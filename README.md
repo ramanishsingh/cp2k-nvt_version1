@@ -1,7 +1,8 @@
 # cp2k-nvt
-make a mosdef36 env:<br /><br />
-conda create -n mosdef36 python=3.6<br />
-conda activate mosdef36<br />
-conda install -c mosdef -c conda-forge -c omnia mbuild foyer<br />
 
-You would also need to install signac  (signac.io) in the env
+Make a `mosdef36` conda environment:
+
+```bash
+conda create -n mosdef36 -c mosdef -c conda-forge -c omnia python=3.6 mbuild foyer signac signac-flow
+conda activate mosdef36
+```
